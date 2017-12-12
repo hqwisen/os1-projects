@@ -5,7 +5,7 @@ Project 1 and 2 of OS course
 # Project 1: Filetree
 
 ```
-bash filetree.sh
+bash filestree.sh
 ```
 
 # Project 2: chat application
